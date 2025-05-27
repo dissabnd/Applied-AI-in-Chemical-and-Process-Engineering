@@ -1,0 +1,2 @@
+# UoMAICrash
+AI Crash Course
