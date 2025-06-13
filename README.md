@@ -1,3 +1,3 @@
-# Content of UoM Crash Course
+# Applied AI in Chemical and Process Engineering
 
-AI Crash Course
+Repo with codes and data for the above short course
