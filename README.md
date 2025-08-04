@@ -4,7 +4,8 @@ This 8-week crash course introduces AI fundamentals, including machine learning,
 
 # Github Repo
 
-![QR Code](assets/qr.png)
+
+<img src="assets/qr.png" alt="QR Code" width="200">
 
 
 OR
