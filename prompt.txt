@@ -1,0 +1,10 @@
+I would like to create a prompting strategy to learn about latest advancements in asthma treatment/ management. I would like AI to create a good summary document to cover the latest understanding of asthma, best treatment options ..etc.
+
+This is for a graduate who is thinking of starting a research on asthma. 
+
+
+Can you please create an effective yet concise prompt for this? 
+
+Here is a guideline
+
+1. List any facts you're uncertain about and rate confidence (1-10)2. Confirm you've addressed every part of my request3. Check if this flows logically - will any part confuse the reader?4. Verify this matches the industry and persona I requested5. Ensure this sounds genuinely written, not like a generic template
